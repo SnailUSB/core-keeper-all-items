@@ -19,6 +19,12 @@
 - All relics set up in a room
 - All vanity sets + armor set up in a room
 
+# How to Install
+0 - This world is auto setup to take up slot ten, but you can change that by changing the number in the file name
+1 - Go to this file path: C:\Users\*Your Username*\AppData\LocalLow\Pugstorm\Core Keeper\Steam\*Your steam ID*
+2 - Drop both the world and map folder you download from here, into your steam ID folder
+3 - Load up and play
+
 # Unobtainable Items
 
 🐌 These are are all of the unobtainable items I could find, but if anymore are found in the future, I'll update the map file alongside this list
